@@ -1,0 +1,6 @@
+url,total,avg_response_time
+/api/homeworks/...,55312,0.093
+/api/context/...,43928,0.019
+/api/specializations/...,8335,0.052
+/api/challenges/...,1476,0.078
+/api/users/...,1447,0.066
